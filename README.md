@@ -12,4 +12,4 @@ The app saves your token locally and auto-refreshes using the `refresh_rate` ret
 
 ## Build
 
-- `npm run dist`
+- `npm run electron:build`
